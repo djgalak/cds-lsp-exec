@@ -1,0 +1,14 @@
+{
+  "name": "cds-lsp-exec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sap/cds-lsp": "^3.3.2"
+  }
+}
